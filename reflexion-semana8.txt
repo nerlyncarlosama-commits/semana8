@@ -1,0 +1,23 @@
+cat > reflexion-semana8.txt << 'EOF'
+¿Por qué la seguridad digital es importante para proteger plataformas tecnológicas comunitarias?
+
+1. Porque protege la privacidad de los ciudadanos que reportan problemas en su comunidad, evitando que sus datos personales caigan en manos equivocadas.
+
+2. Porque garantiza que la información registrada (reportes, incidencias, quejas) sea auténtica y no haya sido modificada por personas no autorizadas.
+
+3. Porque previene ataques como robo de cuentas, suplantación de identidad o eliminación masiva de datos que dejarían inutilizable la plataforma.
+
+4. Porque genera confianza en la comunidad: si los ciudadanos saben que sus datos están seguros, participarán más activamente.
+
+5. Porque muchas plataformas comunitarias manejan información sensible como denuncias de inseguridad o problemas de salud pública.
+
+6. Porque sin seguridad básica, cualquier persona malintencionada podría falsear reportes, desacreditar la plataforma o saturarla con información falsa.
+
+7. Porque los servidores que alojan estas plataformas necesitan protección contra accesos no autorizados que podrían tomar control del sistema.
+
+8. Porque la seguridad digital es parte de la ética de quien desarrolla tecnología para comunidades: es una responsabilidad con los más vulnerables.
+
+9. Porque una plataforma que sufre un ataque o filtración de datos pierde credibilidad y puede tardar años en recuperar la confianza ciudadana.
+
+10. Porque proteger la plataforma es proteger el derecho a participar de manera segura, sin miedo a represalias o exposición innecesaria.
+EOF

@@ -1,0 +1,13 @@
+cat > preguntas-semana8.txt << 'EOF'
+Pregunta 1:
+Respuesta: B
+
+Pregunta 2:
+Respuesta: A
+
+Pregunta 3:
+Respuesta: B
+
+Pregunta 4:
+Respuesta: B
+EOF
