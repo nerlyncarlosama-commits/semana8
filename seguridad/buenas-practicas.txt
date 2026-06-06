@@ -1,0 +1,3 @@
+1. Proteger contraseñas y no compartirlas
+2. Mantener el software y sistema actualizado
+3. Usar autenticación de dos factores (2FA)

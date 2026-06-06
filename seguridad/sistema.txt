@@ -1,0 +1,12 @@
+COMANDO uname -a:
+Muestra información completa del sistema operativo: nombre del kernel, nombre del host, versión del kernel, fecha de compilación, arquitectura del procesador (x86_64, ARM, etc.) y tipo de sistema operativo.
+
+Ejemplo de salida: Linux codespace-xxxx 6.2.0-1018-azure #18~22.04.1-Ubuntu SMP x86_64 GNU/Linux
+
+COMANDO whoami:
+Muestra el nombre del usuario actual que está ejecutando comandos en la terminal.
+
+Ejemplo de salida: codespace
+
+POR QUÉ ES ÚTIL CONOCER ESTA INFORMACIÓN:
+Cuando se administra un servidor, es fundamental saber qué versión del sistema operativo está funcionando para instalar actualizaciones de seguridad compatibles. También ayuda a diagnosticar problemas, saber qué arquitectura tiene el servidor (para instalar software correcto) y conocer qué usuario está ejecutando procesos para evitar errores de permisos. Administrar un servidor sin esta información es como conducir sin tablero de instrumentos.

@@ -1,0 +1,11 @@
+5 PRÁCTICAS DE SEGURIDAD PARA PLATAFORMAS COMUNITARIAS:
+
+1. NO EXPONER DATOS PERSONALES: Los correos electrónicos, números de cédula y direcciones exactas deben estar protegidos y no ser visibles para todos los usuarios.
+
+2. PROTEGER CREDENCIALES: Implementar políticas de contraseñas seguras (mínimo 8 caracteres, mayúsculas, números y símbolos) y autenticación de dos factores.
+
+3. USAR CONEXIONES SEGURAS (HTTPS): Toda la comunicación entre el usuario y la plataforma debe estar cifrada mediante certificados SSL/TLS.
+
+4. REGISTRAR ACCESOS (LOGS): Mantener un registro de quién accede, qué hace y desde dónde, para poder auditar acciones sospechosas.
+
+5. LIMITAR ACCESO A INFORMACIÓN SENSIBLE: Solo usuarios con roles específicos (administradores o verificadores) pueden ver datos privados. Los ciudadanos comunes solo ven reportes públicos.
